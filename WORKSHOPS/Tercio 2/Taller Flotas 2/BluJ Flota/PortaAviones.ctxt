@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=PortaAviones
-comment1.params=
-comment1.target=boolean\ esDebil()
-comment2.params=
-comment2.target=java.util.ArrayList\ pilotos()
-numComments=3
